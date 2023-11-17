@@ -1,10 +1,10 @@
 # stock_dash
 
-install 
+install:  
   pip install -r requirements.txt
 
-run 
+run: 
   python manage.py runserver
 
-use
+use: 
   past in browser http://localhost:8000
